@@ -1,0 +1,152 @@
+body{
+    color: #40514E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    text-align: center;
+}
+
+h1{
+    color: #442727;
+    font-size: 562.5%;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    color: #442727;
+    font-family: 'Merriweather', serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    margin-bottom: 0;
+    margin-top: 0px;
+    padding: 10px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #937d14;
+}
+
+div{
+    
+    
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left
+}
+
+th{
+    text-align: left;
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+    border: dotted #eae7d9 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.biotable{
+    margin-right: 25%;
+    margin-top: 0;
+    position: relative;
+    padding-left: 25%;
+}
+
+.top-div{
+    background-color: #eae7d9;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-div{
+    
+}
+
+.bottom-container{
+   background-color: #d2c6b2;
+   padding: 50px 0 20px;
+
+}
+
+.bottomcloud{
+    position: absolute;
+}
+
+.btn {
+	background-color:#442727;
+	-webkit-border-top-left-radius:8px;
+	-moz-border-radius-topleft:8px;
+	border-top-left-radius:8px;
+	-webkit-border-top-right-radius:8px;
+	-moz-border-radius-topright:8px;
+	border-top-right-radius:8px;
+	-webkit-border-bottom-right-radius:8px;
+	-moz-border-radius-bottomright:8px;
+	border-bottom-right-radius:8px;
+	-webkit-border-bottom-left-radius:8px;
+	-moz-border-radius-bottomleft:8px;
+	border-bottom-left-radius:8px;
+    text-indent:0;
+	border:1px solid #d2c6b2;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	font-style:normal;
+    height:50px;
+    line-height:50px;
+    margin: 0 auto 50px;
+    width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #d2c6b2;
+}.btn:hover {
+	background-color:#937e14;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.contact-description{
+    margin: 40px auto 60px;
+    width: 40%;
+}
+
+.footer-link{
+    color: #937d14;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+   color:  #eae7d9;
+}
+
+.profile{
+    line-height: 2;
+}
+
+.skill-row{
+    line-height: 2;
+}
+
+.topcloud{
+    position: absolute;
+    right: 200px;
+    top: 60px;
+}
+
+#profilepic{
+    height: 15%;
+    margin-top: 5%;
+    width: 15%;
+}
